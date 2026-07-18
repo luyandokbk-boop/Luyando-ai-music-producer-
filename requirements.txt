@@ -5,3 +5,4 @@ transformers
 soundfile
 bcrypt
 pydub
+ffmpeg-python
