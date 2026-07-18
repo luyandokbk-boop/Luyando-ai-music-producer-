@@ -1,9 +1,10 @@
-   streamlit
-   torch
-   torchaudio
-   transformers
-   soundfile
-   bcrypt
-   pydub
-   ffmpeg-python
-   audioop-lts
+streamlit
+torch
+torchaudio
+torchvision
+soundfile
+bcrypt
+pydub
+ffmpeg-python
+audioop-lts
+audiocraft
